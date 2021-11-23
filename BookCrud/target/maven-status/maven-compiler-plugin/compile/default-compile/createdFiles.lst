@@ -1,0 +1,5 @@
+com/example/BookCrud/repository/BookRepository.class
+com/example/BookCrud/controller/BookController.class
+com/example/BookCrud/BookCrudApplication.class
+com/example/BookCrud/model/Book.class
+com/example/BookCrud/service/BookService.class
